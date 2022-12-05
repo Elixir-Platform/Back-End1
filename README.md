@@ -7,5 +7,6 @@ Backend section from Elixir Platfrom
 - cp .env.example .env
 - php artisan key:generate
 - php artisan migrate
-- php artisan ser
+- php artisan ser 
+- [laravel doc](https://laravel.com/docs/9.x/installation)
 
