@@ -8,5 +8,6 @@ Backend section from Elixir Platfrom
 - php artisan key:generate
 - php artisan migrate
 - php artisan ser 
-- [laravel doc](https://laravel.com/docs/9.x/installation)
+# laravel docs
+- [laravel docs](https://laravel.com/docs/9.x/installation)
 
