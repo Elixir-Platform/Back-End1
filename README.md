@@ -9,6 +9,6 @@ Backend section from Elixir Platfrom
 - php artisan migrate
 - php artisan ser
 # laravel docs
-[Docs](https://laravel.com/)
-[laravel news](https://laravel-news.com/)
+- [Docs](https://laravel.com/)
+- 
 
