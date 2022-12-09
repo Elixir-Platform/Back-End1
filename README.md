@@ -10,5 +10,5 @@ Backend section from Elixir Platfrom
 - php artisan ser
 # laravel docs
 - [Docs](https://laravel.com/)
-- 
+- [laravel pdf](https://github.com/driade/laravel-book/blob/master/laravel-docs-master.pdf)
 
