@@ -10,4 +10,5 @@ Backend section from Elixir Platfrom
 - php artisan ser
 # laravel docs
 [Docs](https://laravel.com/)
+[laravel news](https://laravel-news.com/)
 
